@@ -1,4 +1,4 @@
-# GAM495-BatteryCollector2
+# BatteryCollector2
 ### Unreal (C++) variant of the Battery Collector game. Adds an AI opponent
 
 This is extended from my GAM312 project which is a simple arcade style Battery Collector game where the player is thrown into the game world and drains power over time. Batteries spawn randomly and the player has to collect them to fully recharge his bot. The game ends on either reaching full power or losing all power.
